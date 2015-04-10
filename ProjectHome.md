@@ -1,0 +1,1 @@
+An AddThis extension for the Contao Content Management System.
